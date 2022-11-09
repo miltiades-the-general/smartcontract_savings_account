@@ -32,3 +32,15 @@ ___
 ![First Batch](./images/transactions1-5.png)
 ![Second Batch](./images/transactions6-8.png)
 
+### Calling lastToWithdraw
+![Last to Withdraw](./images/last_to_withdraw.png)
+
+### Calling lastWithdrawalAmount
+![Last to Withdraw](./images/last_withdraw_amount.png)
+
+### Making a Deposit with Primary Account of 18eth
+![Deposit Remix](./images/deposit.png)
+![Deposit Terminal](./images/deposit_terminal.png)
+
+
+
